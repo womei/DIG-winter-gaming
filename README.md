@@ -6,15 +6,15 @@ I am being a bit extreme and setting up a github so we can collaboratively decid
 I want to set up the following games:
 
 ### Continuous:
-- [] Open TTD
-- [] Vanila Minecraft
-- [] Modded Minecraft (simple)
-- [] Modded Minecraft (super complex)
-- [] ¿Factorio?
+- [ ] Open TTD
+- [ ] Vanila Minecraft
+- [ ] Modded Minecraft (simple)
+- [ ] Modded Minecraft (super complex)
+- [ ] ¿Factorio?
 
 ### Special event:
- - [] Gartic Phone
- - [] Code names
+ - [ ] Gartic Phone
+ - [ ] Code names
 
 ## Events:
 - December 8th: launch of DIG winter gaming session
