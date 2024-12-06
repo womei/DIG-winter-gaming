@@ -17,9 +17,9 @@ I want to set up the following games:
  - [ ] Code names
 
 ## Events:
-- December 8th: launch of DIG winter gaming session
-- December 14th: TBD special game
-- December 15th: TBD special game
+- December 6th: launch of DIG winter gaming session
+- December 14?th: Gartic Phone
+- December 15?th: Code names!
 - December 22nd: launch of gaming week
 
 ## Help flesh this out!
