@@ -8,9 +8,9 @@ I want to set up the following games:
 ### Continuous:
 - [ ] Open TTD
 - [X] Vanilla Minecraft [minecraft.womeijer.com](minecraft.womeijer.com)
-- [ ] Modded Minecraft (Create)
-- [ ] Modded Minecraft (super complex)
-- [ ] ¿Factorio?
+- [ ] Simple Modded Minecraft [minecraft.womeijer.com:1337](minecraft.womeijer.com:1337) (Get Minecraft 1.20.1, Install [Fabric](https://docs.fabricmc.net/players/installing-fabric), get [Create](https://modrinth.com/mod/create-fabric) )
+- [ ] Modded Minecraft (super complex) [TBD: Simo]
+- [ ] Satisfactory [TBD: Bashar]
 
 ### Special event:
  - [ ] Gartic Phone
