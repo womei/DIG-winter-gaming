@@ -7,8 +7,8 @@ I want to set up the following games:
 
 ### Continuous:
 - [ ] Open TTD
-- [ ] Vanila Minecraft
-- [ ] Modded Minecraft (simple)
+- [X] Vanilla Minecraft [minecraft.womeijer.com](minecraft.womeijer.com)
+- [ ] Modded Minecraft (Create)
 - [ ] Modded Minecraft (super complex)
 - [ ] ¿Factorio?
 
